@@ -1,0 +1,7 @@
+{"name":"Emby Icons", 
+"description":"", 
+"icons":[
+    {"name":"Emby111", "url":"https://raw.githubusercontent.com/black2c7/Emby-icons/main/Icons/Emby111.png"},
+    {"name":"Windows111", "url":"https://raw.githubusercontent.com/black2c7/Emby-icons/main/Icons3/Windows111.png"}
+        ]
+}
