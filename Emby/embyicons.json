@@ -1,7 +1,7 @@
 {"name":"Emby Icons", 
 "icons":[
-    {"name":"cbcb", "url":"https://raw.githubusercontent.com/CHENLY-1/APTV/main/Emby/Icons/cbcb.png"}
-    {"name":"ntrrr", "url":"https://raw.githubusercontent.com/CHENLY-1/APTV/main/Emby/Icons/ntrrr.png"}
+    {"name":"cbcb", "url":"https://raw.githubusercontent.com/CHENLY-1/APTV/main/Emby/Icons/cbcb.png"}, 
+    {"name":"ntrrr", "url":"https://raw.githubusercontent.com/CHENLY-1/APTV/main/Emby/Icons/ntrrr.png"},
     {"name":"lyrebird", "url":"https://raw.githubusercontent.com/CHENLY-1/APTV/main/Emby/Icons/lyrebird.png"}
         ]
 }
